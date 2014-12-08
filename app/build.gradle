@@ -21,5 +21,8 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile project(':easysocial')
+    compile project(':easysocialfacebook')
     compile 'com.android.support:appcompat-v7:21.0.2'
+    compile project(':easysocialtwitter')
 }

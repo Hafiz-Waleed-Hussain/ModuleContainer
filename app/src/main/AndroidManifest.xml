@@ -16,6 +16,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.uwanttolearn.modulecontainer.FacebookTestingActivity"
+            android:label="@string/title_activity_facebook_testing" >
+        </activity>
+        <activity
+            android:name="com.uwanttolearn.modulecontainer.TwitterTestingActivity"
+            android:label="@string/title_activity_twitter_testing" >
+        </activity>
     </application>
 
 </manifest>

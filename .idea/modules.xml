@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/ModuleContainer.iml" filepath="$PROJECT_DIR$/ModuleContainer.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/easysocial/easysocial.iml" filepath="$PROJECT_DIR$/easysocial/easysocial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easysocialfacebook/easysocialfacebook.iml" filepath="$PROJECT_DIR$/easysocialfacebook/easysocialfacebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easysocialtwitter/easysocialtwitter.iml" filepath="$PROJECT_DIR$/easysocialtwitter/easysocialtwitter.iml" />
     </modules>
   </component>
 </project>

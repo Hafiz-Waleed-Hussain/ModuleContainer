@@ -1,1 +1,1 @@
-include ':app', ':easysocial'
+include ':app', ':easysocial', ':easysocialfacebook', ':easysocialtwitter'
